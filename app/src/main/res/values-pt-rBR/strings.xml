@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GabrielItagyba_RM87098</string>
+    <color name="backgroundcolor1">#f1dcf2</color>
+    <color name="btnColor1">#a3c40c</color>
+    <color name="backgroundcolor2">#e0b4bc</color>
+    <color name="btnColor2">#1c33c7</color>
+
+    <string name="name">Oliver, o gatinho triste!</string>
+    <string name="desc_title">Descrição</string>
+    <string name="desc">Era uma vez um gatinho triste chamado Oliver. Ninguém parecia amá-lo e ele se sentia sozinho. Oliver buscava carinho, mas era constantemente rejeitado. Ele desejava encontrar alguém que o amasse e aceitasse como ele era.</string>
+    <string name="hbl_title">Habilidades</string>
+    <string name="hbl1">tistreza profunda</string>
+    <string name="hbl2">humor autodepreciativo</string>
+    <string name="hbl_btn">Adicionar Habilidades</string>
+    <string name="theme_btn">Trocar tema</string>
+    <string name="deep_sadness">tistreza profunda</string>
+    <string name="unbearable_cry">choro insuportável</string>
+    <string name="contagious_melancholy">melancolia contagiosa</string>
+    <string name="tsunami_of_tears">tsunami de lágrimas</string>
+    <string name="self_deprecating_humor">humor autodepreciativo</string>
+    <string name="go_back">voltar</string>
+    <string name="skill_list">Lista de Habilidades</string>
+</resources>

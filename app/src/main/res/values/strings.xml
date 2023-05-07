@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GabrielItagyba_RM87098</string>
+    <color name="backgroundcolor1">#f1dcf2</color>
+    <color name="btnColor1">#a3c40c</color>
+    <color name="backgroundcolor2">#e0b4bc</color>
+    <color name="btnColor2">#1c33c7</color>
+
+    <string name="name">Oliver, the sad kitten!</string>
+    <string name="desc_title">Description</string>
+    <string name="desc">Once there was a sad kitten named Oliver. Nobody seemed to love him, and he felt lonely. Oliver longed for affection, but he was constantly rejected. He wished to find someone who would love and accept him for who he was.</string>
+    <string name="hbl_title">Skills</string>
+    <string name="hbl1">deep sadness</string>
+    <string name="hbl2">self-deprecating humor</string>
+    <string name="hbl_btn">ADD SKILLS</string>
+    <string name="theme_btn">Switch theme</string>
+    <string name="deep_sadness">deep sadness</string>
+    <string name="unbearable_cry">unbearable cry</string>
+    <string name="contagious_melancholy">contagious melancholy</string>
+    <string name="tsunami_of_tears">tsunami of tears</string>
+    <string name="self_deprecating_humor">self-deprecating humor</string>
+    <string name="go_back">go back</string>
+    <string name="skill_list">Skills List</string>
+
+
+</resources>
